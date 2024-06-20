@@ -23,3 +23,5 @@ SELECT * FROM `news` WHERE `public`='1' AND `id`=4 OR 1 ORDER BY `position` DESC
 Тест Формы itb
 itb-test-1@yandex.ru
 Add Line
+
+commit tests
