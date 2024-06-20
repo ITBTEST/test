@@ -1,0 +1,23 @@
+:!?@",.1
+Этот текст является тестовым
+This text is a test
+Este texto es una prueba
+Ce texte est un test
+Dieser Text ist ein Test
+Questo testo è una prova
+Este texto é um teste
+这是一个测试文本
+Zhè shì yīgè cèshì wénběn
+このテキストはテストです
+Kono tekisuto wa tesuto desu
+이 텍스트는 테스트입니다
+I tekeusteuneun teseuteuibnida
+https://ya.ru/
+ya.ru
+$id=(int)$_GET['id_news'];
+/?detail=4+OR+1
+SELECT * FROM `news` WHERE `public`='1' AND `id`=4 OR 1 ORDER BY `position` DESC
+[bold]Просто текст[/bold]
+<html lang="ru" prefix="og: https://ogp.me/ns#">
+
+Тест Формы itb
